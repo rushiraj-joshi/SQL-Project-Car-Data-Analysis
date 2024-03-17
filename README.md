@@ -1,4 +1,4 @@
-# SQL-Project-Car-Sales
+# SQL-Project-Car-Data-Analysis
 
 ## Overview
 This project aims to analyze a dataset containing information about cars.
